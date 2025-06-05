@@ -1,0 +1,3 @@
+local Ability_Task_SendYawPitchToTargetToABPPad = UE4.Class(nil, "Ability_Task_SendYawPitchToTargetToABPPad")
+
+return Ability_Task_SendYawPitchToTargetToABPPad

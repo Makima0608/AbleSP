@@ -1,0 +1,4 @@
+---@class Ability_Task_PVP_CollisionDamagePredictPad : USPAbilityTaskScratchPad
+local Ability_Task_PVP_CollisionDamagePredictPad = UE4.Class(nil, "Ability_Task_PVP_CollisionDamagePredictPad")
+
+return Ability_Task_PVP_CollisionDamagePredictPad
